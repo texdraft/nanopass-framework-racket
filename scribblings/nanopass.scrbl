@@ -340,8 +340,6 @@ if the meta-variable is @racket[e] then @racket[e1], @racket[e*], @racket[e?],
 production is either of the type of the meta-variable or bottom (represented by
 @racket[#f]).
 
-
-
 Thus, Racket language forms such as @racket[let] can be represented as a
 language production as:
 
